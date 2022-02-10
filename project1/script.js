@@ -75,6 +75,7 @@ function chooseOptExpenses() {
     }
 }
 chooseOptExpenses();
+console.log('hello computer');
 
 
 
